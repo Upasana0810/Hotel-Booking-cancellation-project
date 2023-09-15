@@ -26,7 +26,7 @@ From our EDA,we have observed the following features in the dataset which helps 
 1.  Arrival month
 1.  The platform used to order
    
-####  Strategies to counter High Cancellation at the Hotel
+#### Strategies to counter High Cancellation at the Hotel
 1. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort  than the city hotels. so,the hotel should provide a reasonable discount on the room prices on weekends or on holiday.
 1. In the month of january ,Hotels can start campaign or marketing with a reasonable ammount to increase their revenue as the cancellation is the highest in this month.
 1. They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
