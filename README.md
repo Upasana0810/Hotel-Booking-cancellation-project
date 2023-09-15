@@ -21,10 +21,10 @@ To better unserstand the dataset ,we have come up with the list of question:
 cancel more reservation
 
 From our EDA,we have observed the following features in the dataset which helps in predicting cancellation from the guests are:
--ADR
-*Deposit Type
-+Arrival month
-/The platform used to order
+#ADR
+#Deposit Type
+#Arrival month
+#The platform used to order
 
 ##Strategies to counter High Cancellation at the Hotel
 1.As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort  than the city hotels. so,the hotel should provide a reasonable discount on the room prices on weekends or on holiday.
