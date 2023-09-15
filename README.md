@@ -4,13 +4,13 @@ Excel project
 THe objective of this project is to analyse customer behaviour in making hotel reservation and identify factors that impact the cancellation rate of reservation . Tha data for this project was obtained from the Hotel BOoking demand Dataset on Kaggle.
 
 ## Exploratory Data analysis(EDA) with Data Visualization
-To better unserstand the dataset ,we have come up with the list of question:
-1> How many booking were cancelled by Hotel type?
-2> Which month is most occupied with booking at the hotel?
-3>How market segment effect Hotel booking?
-4>How does ADR vary over the year by Hotel type?
-5> What is the effect of deposit type on Cancellation?
-6> what are the top ten country of origin of hotel visitor (guests)?
+<p>To better unserstand the dataset ,we have come up with the list of question:<br/>
+1> How many booking were cancelled by Hotel type?<br/>
+2> Which month is most occupied with booking at the hotel?<br/>
+3>How market segment effect Hotel booking?<br/>
+4>How does ADR vary over the year by Hotel type?<br/>
+5> What is the effect of deposit type on Cancellation?<br/>
+6> what are the top ten country of origin of hotel visitor (guests)?<br/>
  ## Observation
 >For the resort hotel ,a total of 27.76% Booking  were cancelled and for city hotel ,a total of 41.73% booking were cancelled.
 >August month is most occupied with booking at the hotel.
