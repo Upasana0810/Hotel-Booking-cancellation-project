@@ -12,7 +12,7 @@ To better unserstand the dataset ,we have come up with the list of question:
 1. What is the effect of deposit type on Cancellation?
 1. what are the top ten country of origin of hotel visitor (guests)?
    
-## Observation
+### Observation
 1.For the resort hotel ,a total of 27.76% Booking  were cancelled and for city hotel ,a total of 41.73% booking were cancelled.
 1.August month is most occupied with booking at the hotel.
 1.Around 44% of booking are made via online travel agent,almost 19% of booking are made by offline tavel agent and less than 1% booking are made by complementry .
